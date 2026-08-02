@@ -1,8 +1,8 @@
-# TripleTen_projects
+# TripleTen_Projects
+
 Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
 
-
-| Project number | Title | Description |
-| :-----------: | ----------- |----------- |
-| 1 | Super Store| The project task was to analyze user data and find the possible reasons for the returned orders. |
-| 2 | Business Analytics Project | The project task was to take raw transaction logs and find out each time a user views a product page, opens their shopping cart or completes a purchase|
+| Project number | Title | Description | Link |
+| :---: | --- | --- | :---: |
+| 1 | **Super Store Analysis** | Analyzed sales and return data using Tableau to identify root causes of returned orders, seasonal trends, and high-return categories. | [View Project](./SuperStore_Analysis/) |
+| 2 | **Business Analytics Project** | Analyzed raw transaction logs in Excel/Google Sheets to evaluate conversion funnels, retention rates, and cohort purchase activity. | [View Project](./Business_Analytics_Project/) |
