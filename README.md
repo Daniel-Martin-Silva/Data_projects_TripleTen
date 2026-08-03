@@ -1,8 +1,9 @@
-# TripleTen_Projects
+# TripleTen Projects
 
-Projects I worked on while attending the Data Analysis TripleTen Bootcamp.
+Projects worked on while attending the Data Analysis TripleTen Bootcamp.
 
-| Project number | Title | Description | Link |
+| Project Number | Title | Description | Link |
 | :---: | --- | --- | :---: |
-| 1 | **Super Store Analysis** | Analyzed sales and return data using Tableau to identify root causes of returned orders, seasonal trends, and high-return categories. | [View Project](./SuperStore_Analysis/) |
-| 2 | **Business Analytics Project** | Analyzed raw transaction logs in Excel/Google Sheets to evaluate conversion funnels, retention rates, and cohort purchase activity. | [View Project](./Business_Analytics_Project/) |
+| 1 | **SuperStore Analysis** | Analyzed sales and return data using Tableau to identify root causes of returned orders, seasonal trends, and high-return categories. | [View Project](./SuperStore_Analysis/) |
+| 2 | **Business Analytics Project** | Analyzed raw transaction logs in Excel/Google Sheets to evaluate conversion funnels, retention rates, and cohort activity. | [View Project](./Business_Analytics_Project/) |
+| 3 | **Supply Chain & Logistics** | Pre-cleaned shipment logs in BigQuery (SQL) and built a Power BI dashboard with Star Schema modeling and DAX metrics to analyze delivery performance. | [View Project](./Supply_Chain_Analysis/) |
